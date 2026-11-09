@@ -23,7 +23,7 @@ ul,ol{padding-left:1.3em}
 .howto{background:var(--panel);border:1px solid var(--line);border-left:4px solid var(--lamp);border-radius:10px;padding:16px 20px 16px 2.6em;margin:16px 0}
 .howto li{margin:4px 0}
 .howto b{color:var(--lamp)}
-.store{display:inline-block;background:var(--lamp);color:var(--rock);text-decoration:none;font-weight:700;border-radius:10px;padding:10px 18px}
+.store{display:inline-block;background:#2b2440;color:#fffaf3;text-decoration:none;font-weight:700;border-radius:12px;padding:10px 18px}
 .store:hover{opacity:.9}
 a:focus-visible{outline:3px solid var(--lamp);outline-offset:2px;border-radius:4px}
 .todo{background:#4a2a14;color:#ffd9b0;padding:0 6px;border-radius:4px}
